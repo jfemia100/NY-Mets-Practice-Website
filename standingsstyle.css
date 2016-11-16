@@ -1,0 +1,63 @@
+/* Standings Style Page */
+
+body {
+	background-image: url("http://cdn.wallpapersafari.com/62/52/XSRpuI.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+h1 {
+	text-align: center;
+	font-style: bold;
+	font: Times New Roman;
+	font-size: 45px;
+	border: 5px solid darkblue;
+	background-color: orange;
+	margin-left: 3cm;
+	margin-right: 3cm;
+}
+
+table {
+	background-color: white;
+	border: 5px solid darkblue;
+	text-align: center;
+	margin-left: 8cm;
+	margin-right: 3cm;
+}
+
+th { 
+	border: 5px solid orange;
+	font-style: bold;
+	font: Times New Roman;
+	font-size: 45px;
+}
+
+td {
+	border: 5px solid darkblue;
+	font: Times New Roman;
+	font-size: 30px;
+}
+
+.official {
+	position: absolute;
+	left: 20px;
+	font: Times New Roman;
+	font-size: 15px;
+	line-height: 10%;
+	border: 5px solid darkblue;
+	background-color: orange;
+	margin-left: 2.7cm;
+}
+
+.tagline {
+	position: absolute;
+	right: 20px;
+	font-style: italic;
+	font: Times New Roman;
+	font-size: 15px;
+	line-height: 10%;
+	border: 5px solid darkblue;
+	background-color: orange;
+	margin-right: 2.7cm;
+}
