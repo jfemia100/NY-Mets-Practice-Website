@@ -1,0 +1,64 @@
+/* Style document for Homepage */
+
+
+
+body {
+	background-image: url("http://cdn.wallpapersafari.com/62/52/XSRpuI.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.logo {
+	text-align: center;
+	font-style: bold;
+	font: Times New Roman;
+	font-size: 45px;
+	border: 5px solid darkblue;
+	border-bottom-color: white;
+	background-color: white;
+	line-height: 30%;
+	margin-left: 5cm;
+	margin-right: 5cm;
+}
+
+.links {
+	text-align: center;
+	font-style: bold;
+	font: Times New Roman;
+	font-size: 45px;
+	border: 5px solid darkblue;
+	border-top-color: white;
+	background-color: white;
+	line-height: 125%;
+	margin-left: 7cm;
+	margin-right: 7cm;
+	padding: 30px;
+}
+	
+table {
+	margin-left: 21%;
+	margin-right: 21%;
+}
+
+.official {
+	position: absolute;
+	left: 20px;
+	font: Times New Roman;
+	font-size: 15px;
+	line-height: 10%;
+	border: 5px solid darkblue;
+	background-color: orange;
+	margin-left: 2.7cm;
+}
+
+.tagline {
+	position: absolute;
+	right: 20px;
+	font-style: italic;
+	font: Times New Roman;
+	font-size: 15px;
+	line-height: 10%;
+	border: 5px solid darkblue;
+	background-color: orange;
+	margin-right: 2.7cm;
+}
