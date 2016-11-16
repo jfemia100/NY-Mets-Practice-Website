@@ -1,0 +1,64 @@
+/* Rumors Style page */
+
+
+body {
+	background-image: url("http://cdn.wallpapersafari.com/62/52/XSRpuI.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+h1 {
+	text-align: center;
+	font-style: bold;
+	font: Times New Roman;
+	font-size: 45px;
+	border: 5px solid darkblue;
+	background-color: orange;
+	margin-left: 3cm;
+	margin-right: 3cm;
+}
+
+
+.rumor1, .rumor2, .rumor3, .rumor4 {
+	text-align: center;
+	font-style: bold;
+	font: Times New Roman;
+	font-size: 45px;
+	border: 5px solid darkblue;
+	background-color: white;
+	line-height: 90%;
+	margin-left: 3cm;
+	margin-right: 3cm;
+}
+
+.rumor {
+	text-align: left;
+	font: Times New Roman;
+	font-size: 20px;
+	line-height: 90%;
+}
+	
+
+.official {
+	position: absolute;
+	left: 20px;
+	font: Times New Roman;
+	font-size: 15px;
+	line-height: 10%;
+	border: 5px solid darkblue;
+	background-color: orange;
+	margin-left: 2.7cm;
+}
+
+.tagline {
+	position: absolute;
+	right: 20px;
+	font-style: italic;
+	font: Times New Roman;
+	font-size: 15px;
+	line-height: 10%;
+	border: 5px solid darkblue;
+	background-color: orange;
+	margin-right: 2.7cm;
+}
