@@ -1,0 +1,62 @@
+/* PicsVids Style page */
+
+body {
+	background-image: url("http://cdn.wallpapersafari.com/62/52/XSRpuI.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+h1 {
+	text-align: center;
+	font-style: bold;
+	font: Times New Roman;
+	font-size: 45px;
+	border: 5px solid darkblue;
+	background-color: orange;
+	margin-left: 3cm;
+	margin-right: 3cm;
+}
+
+.pictures {
+	text-align: center;
+	font: Times New Roman;
+	font-size: 30px;
+	border: 5px solid darkblue;
+	background-color: white;
+	margin-left: 8cm;
+	margin-right: 8cm;
+}
+
+.videos {
+	text-align: center;
+	font: Times New Roman;
+	font-size: 30px;
+	border: 5px solid darkblue;
+	background-color: white;
+	margin-left: 8cm;
+	margin-right: 8cm;
+}
+
+.official {
+	position: absolute;
+	left: 20px;
+	font: Times New Roman;
+	font-size: 15px;
+	line-height: 10%;
+	border: 5px solid darkblue;
+	background-color: orange;
+	margin-left: 2.7cm;
+}
+
+.tagline {
+	position: absolute;
+	right: 20px;
+	font-style: italic;
+	font: Times New Roman;
+	font-size: 15px;
+	line-height: 10%;
+	border: 5px solid darkblue;
+	background-color: orange;
+	margin-right: 2.7cm;
+}
